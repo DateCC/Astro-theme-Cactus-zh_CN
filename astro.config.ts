@@ -47,7 +47,7 @@ export default defineConfig({
         /**
          * optional
          **/
-        short_name: "Notebook",
+        short_name: "仙人掌主题",
         description: siteConfig.description,
         lang: siteConfig.lang,
         icon: "public/icon.svg", // the source for generating favicon & icons
